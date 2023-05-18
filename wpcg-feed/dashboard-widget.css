@@ -1,0 +1,8 @@
+#wpcg_dashboard_widget h2.hndle {
+    display: block;
+}
+
+#wpcg_dashboard_widget h2.hndle a {
+    font-size: 14px;
+    font-weight: 600;
+}
